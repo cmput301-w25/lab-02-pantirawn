@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Grace Wannapongsai`
+- **CCID:** `wannapon`
 
 ## References and Resources
 
