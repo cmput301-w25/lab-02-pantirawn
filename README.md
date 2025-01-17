@@ -8,7 +8,12 @@
 
 ## References and Resources
 
+Android App Development Tutorial 24 - Getting user Input through EditText | Java: By Caleb Curry
+https://www.youtube.com/watch?v=CBYfxj2cbFg
+
 List any resources used here, or simply put `N/A` if not applicable.
+
+
 
 ## Verbal Collaboration
 
